@@ -1,1 +1,1 @@
-printf - ALX Collaboration Project
+# printf - ALX Collaboration Project
